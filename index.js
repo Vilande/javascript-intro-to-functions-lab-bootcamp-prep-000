@@ -10,3 +10,7 @@ function logShout(hello) {
 function logWhisper(hello) {
   console.log(hello.toLowerCase())
 }
+if (hello==="logWhisper")
+{
+  console.log("I can't hear you!")
+}
