@@ -14,7 +14,7 @@ function sayHiToGrandma(hello) {
 if (hello.toLowerCase() ===hello) 
   return "I can't hear you!"
 }
-if (hello.toUpperCase() ===hello){
+if (hello.toUpperCase() ===hello) {
  return "YES INDEED!"
  }
 if (hello === "I love you Grandma .") {
