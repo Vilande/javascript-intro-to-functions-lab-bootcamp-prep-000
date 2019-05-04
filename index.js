@@ -1,6 +1,6 @@
 function shout(hello) {
   return hello.toUpperCase()
 }
-function wisper(hello) {
+function whisper(hello) {
   return hello.toLowerCase()
 }
