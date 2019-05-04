@@ -1,4 +1,4 @@
 function shout(hello) {
   return
-  `${'HELLO'}`.toUpperCase()
+  `${'hello'}`.toUpperCase()
 }
